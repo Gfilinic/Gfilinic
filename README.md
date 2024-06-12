@@ -28,7 +28,7 @@ Welcome to my GitHub profile! 🌟
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,bitbucket,postgres,sqlite,git,github,githubactions,gitlab)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=markdown,vscode,latex,neovim,octave,linux,r,raspberrypi)
+![Others](https://skillicons.dev/icons?i=markdown,vscode,latex,neovim,octave,linux,r,raspberrypi,bash)
 <!--
 **Gfilinic/Gfilinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
